@@ -1,11 +1,3 @@
-# ============================================================================
-# Piotroski f score implementation (data scraped from yahoo finance)
-# Author - Mayank Rasu
-
-# Please report bugs/issues in the Q&A section
-# =============================================================================
-
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
